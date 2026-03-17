@@ -59,3 +59,5 @@ L'application est configurée pour être déployée instantanément. Poussez le 
 
 ## 🔗 Auteur
 Développé dans le cadre d'un master **Mathématiques Appliquées**, spécialité Séries Temporelles, Machine Learning & Transformers.
+
+- Feature update 1
