@@ -61,3 +61,5 @@ L'application est configurée pour être déployée instantanément. Poussez le 
 Développé dans le cadre d'un master **Mathématiques Appliquées**, spécialité Séries Temporelles, Machine Learning & Transformers.
 
 - Feature update 1
+
+- Feature update 2
