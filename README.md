@@ -73,3 +73,5 @@ Développé dans le cadre d'un master **Mathématiques Appliquées**, spécialit
 - Feature update 6
 
 - Feature update 7
+
+- Feature update 8
